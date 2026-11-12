@@ -1,0 +1,11 @@
+{
+  "format_version": "1.21.50",
+  "minecraft:item": {
+    "description": {"identifier": "jj:cursed_energy", "menu_category": {"category": "items"}},
+    "components": {
+      "minecraft:icon": {"texture": "cursed_energy"},
+      "minecraft:display_name": {"value": "item.jj.cursed_energy"},
+      "minecraft:max_stack_size": 64
+    }
+  }
+}

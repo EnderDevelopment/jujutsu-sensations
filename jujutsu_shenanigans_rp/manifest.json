@@ -1,0 +1,15 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Jujutsu Shenanigans Resource Pack",
+    "description": "Names and icons for Jujutsu Shenanigans.",
+    "uuid": "bb49f3a2-9f3b-4c44-bfa6-6b1f6e70dc9c",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 50]
+  },
+  "modules": [{
+    "type": "resources",
+    "uuid": "0a8d16fc-95e1-4a24-9e3f-4abcbdf177f7",
+    "version": [1, 0, 0]
+  }]
+}

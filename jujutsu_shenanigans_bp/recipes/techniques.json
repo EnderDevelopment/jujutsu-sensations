@@ -1,0 +1,10 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "jj:technique_items"},
+    "tags": ["crafting_table"],
+    "pattern": ["ACA", "CBC", "ACA"],
+    "key": {"A": {"item": "jj:cursed_energy"}, "B": {"item": "minecraft:nether_star"}, "C": {"item": "minecraft:diamond"}},
+    "result": {"item": "jj:hollow_purple", "count": 1}
+  }
+}

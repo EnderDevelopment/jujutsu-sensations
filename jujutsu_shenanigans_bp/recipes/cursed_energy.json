@@ -1,0 +1,10 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "jj:cursed_energy"},
+    "tags": ["crafting_table"],
+    "pattern": ["ABA", "BCB", "ABA"],
+    "key": {"A": {"item": "minecraft:amethyst_shard"}, "B": {"item": "minecraft:coal"}, "C": {"item": "minecraft:echo_shard"}},
+    "result": {"item": "jj:cursed_energy", "count": 4}
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "jujutsu_shenanigans",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "cursed_energy": {"textures": "textures/items/amethyst_shard"},
+    "divergent_fist": {"textures": "textures/items/iron_sword"},
+    "blue": {"textures": "textures/items/ender_pearl"},
+    "red": {"textures": "textures/items/fire_charge"},
+    "hollow_purple": {"textures": "textures/items/ender_eye"},
+    "malevolent_shrine": {"textures": "textures/items/nether_star"}
+  }
+}
